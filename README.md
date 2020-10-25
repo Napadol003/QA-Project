@@ -1,10 +1,9 @@
 # ITCS473 Project Assignment 1 Unit Test for Open Source Software Projects
 
-**Sippapak Utumpa 5988051
-**Thanaphoo Liadprathom 5988150
-**
-**Napadol Bangjing 6088003
-**Patakorn Jearat 6088065
+**Sippapak Utumpa 5988051**
+**Thanaphoo Liadprathom 5988150**
+**Napadol Bangjing 6088003**
+**Patakorn Jearat 6088065**
 #README.MD
 # 1. SquareMono
 
